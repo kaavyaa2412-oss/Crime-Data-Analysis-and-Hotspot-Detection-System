@@ -53,8 +53,7 @@ crime-data-analysis/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/crime-data-analysis.git
-cd crime-data-analysis
+https://github.com/kaavyaa2412-oss/Crime-Data-Analysis-and-Hotspot-Detection-System
 ```
 
 ### 2. Install Dependencies
